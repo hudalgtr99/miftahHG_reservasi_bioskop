@@ -17,14 +17,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/km3-bej-1/challenge/02/miftahul_huda_guntara_challenge_2.git
+git remote add origin https://gitlab.com/km3-bej-1/challenge/04-08/miftahulhudaguntara_reservasi_bioskop.git
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.com/km3-bej-1/challenge/02/miftahul_huda_guntara_challenge_2/-/settings/integrations)
+- [ ] [Set up project integrations](https://gitlab.com/km3-bej-1/challenge/04-08/miftahulhudaguntara_reservasi_bioskop/-/settings/integrations)
 
 ## Collaborate with your team
 
